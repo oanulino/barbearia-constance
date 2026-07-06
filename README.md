@@ -20,3 +20,6 @@ Landing page institucional - Barbeiro Visagista em Guaratinguetá
 
 ## Deploy
 Hospedado na Vercel. Cada push na `main` dispara deploy automático.
+
+## Deploy
+Auto-deploy via Vercel + GitHub
